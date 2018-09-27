@@ -42,7 +42,7 @@
             "Key": "220c5ea8-204e-4b59-a299-0178ef1c25bd",
             "Value": {
                 "id": "a4439d6c-d4d9-452f-9795-b1db4ee65e3f",
-                "resourcePath": "objects\\object1\\object1.yy",
+                "resourcePath": "objects\\crosshair_object\\crosshair_object.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -138,7 +138,7 @@
             "Key": "7cd24e16-3589-49c4-ba31-c428c8727486",
             "Value": {
                 "id": "4a38afcd-68d6-4e2b-975c-1e351ce74ce7",
-                "resourcePath": "objects\\object0\\object0.yy",
+                "resourcePath": "objects\\hole_object\\hole_object.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -260,6 +260,14 @@
                 "id": "8cc059ff-ba10-4144-b9f6-0ace710baae8",
                 "resourcePath": "views\\d3125f14-87c2-4447-9681-efb91897a53b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d61e1941-ee4b-44e9-a331-a1b0aa403526",
+            "Value": {
+                "id": "7b679d3f-7e57-4023-8348-213e24e43a0f",
+                "resourcePath": "objects\\object_duck\\object_duck.yy",
+                "resourceType": "GMObject"
             }
         },
         {
