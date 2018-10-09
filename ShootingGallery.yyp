@@ -34,7 +34,7 @@
             "Key": "111c67c8-dd99-40c6-a03b-2201d9e60917",
             "Value": {
                 "id": "b2ec127c-1fb4-401f-aaf6-4819eebf7ccd",
-                "resourcePath": "sprites\\water\\water.yy",
+                "resourcePath": "sprites\\sprite_water\\sprite_water.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -50,7 +50,7 @@
             "Key": "2bcd5e92-3b50-49f5-9a5e-d3fed9aaa861",
             "Value": {
                 "id": "f3384eb3-c8ed-443a-bac1-35640d0fa346",
-                "resourcePath": "sprites\\targ\\targ.yy",
+                "resourcePath": "sprites\\sprite_targetDuck\\sprite_targetDuck.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -74,7 +74,7 @@
             "Key": "477fcdee-a544-4714-aaf4-62b1906586f3",
             "Value": {
                 "id": "da72a97a-4379-4dbe-8399-238365407246",
-                "resourcePath": "sprites\\bullets\\bullets.yy",
+                "resourcePath": "sprites\\sprite_bullets\\sprite_bullets.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -106,7 +106,7 @@
             "Key": "5e4701a2-3e47-483b-9986-ef4d759fe69b",
             "Value": {
                 "id": "a3d4deb1-b760-4182-b035-82d802f2db93",
-                "resourcePath": "sprites\\target\\target.yy",
+                "resourcePath": "sprites\\sprite_target\\sprite_target.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -114,7 +114,7 @@
             "Key": "66c737d5-4130-41cf-af46-27bc6910039a",
             "Value": {
                 "id": "5ea2ab89-4956-48fa-a23b-ff249588f476",
-                "resourcePath": "sprites\\ammo\\ammo.yy",
+                "resourcePath": "sprites\\sprite_ammo\\sprite_ammo.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -162,7 +162,7 @@
             "Key": "8b095721-f135-4b7d-a2eb-4ede6ff94c2f",
             "Value": {
                 "id": "bf17dc21-9301-41ce-ac4c-db8671dada72",
-                "resourcePath": "sprites\\crosshair\\crosshair.yy",
+                "resourcePath": "sprites\\sprite_crosshair\\sprite_crosshair.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -194,7 +194,7 @@
             "Key": "a3da1a3e-1074-4e3d-b402-4794e86d1a0d",
             "Value": {
                 "id": "5d47349b-6171-4168-94d2-bf358b9bdae9",
-                "resourcePath": "sprites\\bg_wood\\bg_wood.yy",
+                "resourcePath": "sprites\\sprite_wood\\sprite_wood.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -202,7 +202,7 @@
             "Key": "aa6d89d1-f28e-4789-b147-05b88cb7bd9d",
             "Value": {
                 "id": "1a5a95de-9c30-4237-9934-13ab72932b38",
-                "resourcePath": "sprites\\hole\\hole.yy",
+                "resourcePath": "sprites\\sprite_hole\\sprite_hole.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -210,7 +210,7 @@
             "Key": "aaaabe3c-9091-4834-98ac-a043fcaa271c",
             "Value": {
                 "id": "ff3dbb06-36bb-4aac-b118-35740fcdbc82",
-                "resourcePath": "sprites\\gameover\\gameover.yy",
+                "resourcePath": "sprites\\sprite_gameover\\sprite_gameover.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -226,7 +226,7 @@
             "Key": "bb42edb7-671e-450d-a67d-1a8a8c217e6c",
             "Value": {
                 "id": "9351fd1d-9be5-40ed-b7e6-b87098b93863",
-                "resourcePath": "sprites\\curtain\\curtain.yy",
+                "resourcePath": "sprites\\sprite_curtain\\sprite_curtain.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -267,6 +267,14 @@
             "Value": {
                 "id": "7b679d3f-7e57-4023-8348-213e24e43a0f",
                 "resourcePath": "objects\\object_duck\\object_duck.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d932567f-332a-4e88-8a62-1196ca3de84d",
+            "Value": {
+                "id": "3aeacc61-636f-48af-b834-87bfa91cf618",
+                "resourcePath": "objects\\object_score\\object_score.yy",
                 "resourceType": "GMObject"
             }
         },

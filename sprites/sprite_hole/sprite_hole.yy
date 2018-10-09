@@ -2,7 +2,7 @@
     "id": "aa6d89d1-f28e-4789-b147-05b88cb7bd9d",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "hole",
+    "name": "sprite_hole",
     "For3D": false,
     "HTile": false,
     "VTile": false,
