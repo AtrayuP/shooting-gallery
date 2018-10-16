@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "d9375609-74ed-4a1e-a896-b661a96c9008",
+            "Value": {
+                "id": "ceb5ade6-acea-44ee-a9aa-de742e64a580",
+                "resourcePath": "objects\\targetDuck\\targetDuck.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dd439956-147b-468f-8c16-e083ca51b77c",
             "Value": {
                 "id": "a1a1c1cf-3300-481e-aa39-974cdb099b3d",
