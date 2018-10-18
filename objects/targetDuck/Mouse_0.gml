@@ -4,7 +4,7 @@
 /// @DnDApplyTo : 4cafea02-caf9-4c0f-8cbb-d03997a7d497
 /// @DnDArgument : "score" "50"
 /// @DnDArgument : "score_relative" "1"
-with(controller) {
+with(object_controller) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
 __dnd_score += real(50);
 }
