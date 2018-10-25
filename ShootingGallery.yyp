@@ -159,10 +159,26 @@
             }
         },
         {
+            "Key": "7aa92ddf-0a4a-4b1b-b5ed-355c8a30b307",
+            "Value": {
+                "id": "4c09ac63-5124-4806-bc73-67af73d06041",
+                "resourcePath": "objects\\object_target\\object_target.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7cd24e16-3589-49c4-ba31-c428c8727486",
             "Value": {
                 "id": "4a38afcd-68d6-4e2b-975c-1e351ce74ce7",
                 "resourcePath": "objects\\hole_object\\hole_object.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7ff641b2-14ab-4760-93ea-a21681b13cfc",
+            "Value": {
+                "id": "7f5d1104-3a7a-4e6a-a198-de21c9f2f867",
+                "resourcePath": "objects\\object_bullets\\object_bullets.yy",
                 "resourceType": "GMObject"
             }
         },
