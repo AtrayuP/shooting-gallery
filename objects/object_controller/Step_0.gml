@@ -10,9 +10,8 @@ if(__dnd_lives <= 0)
 	/// @DnDHash : 4D1CC703
 	/// @DnDParent : 02D0FBD2
 	/// @DnDArgument : "value" "object_controller.__dnd_score"
-	/// @DnDArgument : "value_relative" "1"
 	/// @DnDArgument : "var" "end_score"
-	global.end_score += object_controller.__dnd_score;
+	global.end_score = object_controller.__dnd_score;
 
 	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
