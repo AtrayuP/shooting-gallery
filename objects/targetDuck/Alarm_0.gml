@@ -5,7 +5,7 @@ instance_destroy();
 
 /// @DnDAction : YoYo Games.Instance Variables.Set_Lives
 /// @DnDVersion : 1
-/// @DnDHash : 35549271
+/// @DnDHash : 47933F4E
 /// @DnDApplyTo : 4cafea02-caf9-4c0f-8cbb-d03997a7d497
 /// @DnDArgument : "lives" "-1"
 /// @DnDArgument : "lives_relative" "1"

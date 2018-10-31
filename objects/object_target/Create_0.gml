@@ -20,4 +20,16 @@ if(l0D2858A6_0)
 	/// @DnDApplyTo : 26aa3ec0-6786-449d-926b-d9391580c32e
 	/// @DnDParent : 0D2858A6
 	with(object_target2) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
+	/// @DnDVersion : 1
+	/// @DnDHash : 48611436
+	/// @DnDApplyTo : 4cafea02-caf9-4c0f-8cbb-d03997a7d497
+	/// @DnDParent : 0D2858A6
+	/// @DnDArgument : "lives" "-1"
+	/// @DnDArgument : "lives_relative" "1"
+	with(object_controller) {
+	if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
+	__dnd_lives += real(-1);
+	}
 }
