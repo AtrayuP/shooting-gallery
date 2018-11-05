@@ -370,7 +370,7 @@
             "Key": "e45a44e2-6619-45fa-9a7e-21828ce511b9",
             "Value": {
                 "id": "e274e5d9-2457-434e-80bf-b46530f7546d",
-                "resourcePath": "timelines\\timeline_room\\timeline_room.yy",
+                "resourcePath": "timelines\\timeline\\timeline.yy",
                 "resourceType": "GMTimeline"
             }
         },

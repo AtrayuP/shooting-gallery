@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 32A35D45
-/// @DnDArgument : "speed" "-12"
+/// @DnDArgument : "speed" "object_controller.target_speed"
 /// @DnDArgument : "type" "1"
-hspeed = -12;
+hspeed = object_controller.target_speed;
 
 /// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 /// @DnDVersion : 1
